@@ -12,7 +12,7 @@ You need to have docker installed. Go to the root directory of project and run f
 * ``docker run -d -p 8001:8000  --rm excel-api`` 
 
 Open the url:
-* [localhost:8001](https://localhost:8001)
+* [localhost:8001](http://localhost:8001)
 ### Virtualenv 
 * To install `virtualenv` run : ``pip install virtualenv``
 * Go to the root directory of the project and create virtual environment: ``virtualenv venv``
@@ -22,4 +22,4 @@ Open the url:
     
 * install dependencies: `pip install -r requirements.txt`
 * run application: `python manage.py runserver`
-* application will run on your localhost: [localhost:8000](https://localhost:8000)
+* application will run on your localhost: [localhost:8000](http://localhost:8000)
