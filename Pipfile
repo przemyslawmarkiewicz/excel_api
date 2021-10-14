@@ -8,6 +8,7 @@ django = "*"
 django-dotenv = "*"
 djangorestframework = "*"
 drf-yasg = "*"
+openpyxl = "*"
 
 [dev-packages]
 
